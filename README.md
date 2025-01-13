@@ -4,6 +4,10 @@
 
 This project is a comprehensive dive into sales data, transforming raw datasets into actionable insights using **advanced data analytics techniques** with **Excel** and **SQL**. It focuses on identifying key patterns, boosting profitability, and optimizing sales strategies with precision.  
 
+## Dashboard
+![Screenshot 2025-01-11 192708](https://github.com/user-attachments/assets/88f1af9d-67af-4d72-844a-530b2caecfa8)
+
+
 ## 🎯 Objective  
 - To analyze and interpret sales data to identify revenue-driving trends  
 - To generate actionable insights for enhancing sales performance and business efficiency  
